@@ -10,7 +10,7 @@ I'm a passionate Computer Science & Engineering student focused on building robu
 
 - 🌐 LinkedIn: [Mitul Ranpariya](https://www.linkedin.com/in/mitul-ranpariya-376536252/)
 - 📧 Email: ranpariyamitul540@gmail.com  
-- 📂 Portfolio: [Codolio](https://codolio.com/profile/Mitul)
+- 📂 Portfolio: [Mitul11](https://mitul11.vercel.app/)
 - 📁 GitHub Repositories: [github.com/MitulRanpariya](https://github.com/MitulRanpariya)
 
 ---
@@ -21,13 +21,13 @@ I'm a passionate Computer Science & Engineering student focused on building robu
 `Java` `JavaScript` `C,C++` `Python` `SQL` `HTML` `CSS`
 
 ### 🔧 Frameworks & Libraries
-`Spring Boot` `Spring Security` `Spring MVC` `Hibernate` `React.js` `JWT`
+`Spring Boot` `Spring Security` `Spring MVC` `Hibernate` `Node.js` `Express.js`
 
 ### 🗃️ Databases
 `MySQL` `PostgreSQL`
 
 ### 🛠️ Tools & Platforms
-`Git` `Maven` `Postman` `VS Code` `IntelliJ IDEA`
+`Git` `Maven` `Postman` `VS Code` `IntelliJ IDEA` `cursor` `Antigravity `
 
 ---
 
